@@ -13,6 +13,10 @@ Get the original dataset here: [https://www.kaggle.com/datasets/itselif/comprehe
 1. Download the GitHub Repository
    
    - Clone or download this repository to your local machine.
+   - Run:
+     ```
+     git clone https://github.com/darshanbalajitd/plant-disease-recognition.git
+     ```
 2. Preprocess the Data
    
    - Edit the paths in pre-processing.py to match your dataset location.
