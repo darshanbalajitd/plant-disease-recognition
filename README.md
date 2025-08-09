@@ -9,6 +9,9 @@ Get the original dataset here: [https://www.kaggle.com/datasets/itselif/comprehe
 - Python 3.x
 - PyTorch, torchvision, streamlit, PIL
 - A GPU is recommended for faster training and inference, but CPU will also work.
+
+## Note
+- Before running the program, make sure to adjust the number of workers based on the number of CPU cores available on your machine. This ensures optimal performance and resource utilization.
 ## Setup Instructions
 1. Download the GitHub Repository
    
