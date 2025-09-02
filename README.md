@@ -2,6 +2,8 @@
 ## Description
 This application uses deep learning (MobileNetV2) to detect plant diseases from leaf images. It is designed for educational and experimental purposes and may not be highly accurate due to limited training data.
 
+![Demo Screenshot](./assets/demo.png)
+
 ## Dataset
 Get the original dataset here: [https://www.kaggle.com/datasets/itselif/comprehensive-plant-disease-dataset]
 
