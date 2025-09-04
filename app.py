@@ -40,7 +40,7 @@ def get_disease_info(label):
     url = "https://api.hyperbolic.xyz/v1/chat/completions" 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0cmlzYW11ZHJpc3ZhcmFAZ21haWwuY29tIiwiaWF0IjoxNzQxNDEyOTAzfQ.Y73_uogU181G9xRpyjXoSUdU-R7qZktqj0-2Og00F_g"
+        "Authorization": "Bearer " #authorization key
     }
     prompt = ( 
         f"You are a plant disease expert. The label is '{{label}}'. Always reply in this exact format and nothing else.\n"
